@@ -1,10 +1,12 @@
 .thumbnail{
     overflow: hidden;
+    height: 37vh;
 }
 
 .img_div{
     overflow: hidden;
     background-color: black;
+    height: 30vh;
 }
 
 .thumb_img{
@@ -23,4 +25,9 @@
 
 .cap{
     background-color: white;
+    h4{
+        font-size: 15px;
+        font-family: monospace;
+        font-weight: bold;
+    }
 }
